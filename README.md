@@ -47,26 +47,26 @@ the pay button consider the transaction done and mark the seat sold.
 
 #### Home Pages
 <p align="middle">
-   <img src="../master/Images/main.png" width="400"/>
-   <img src="../master/Images/main2.png" width="400"/>
+   <img src="../Images/main.png" width="400"/>
+   <img src="../Images/main2.png" width="400"/>
 </p>
 
 #### Login Page and Book Flight
 <p align="middle">
-   <img src="../master/Images/login.png" width="400"/>
-   <img src="../master/Images/book.png" width="400"/>
+   <img src="../Images/login.png" width="400"/>
+   <img src="../Images/book.png" width="400"/>
 </p>
 
 #### Current Bookings and Itinerary
 <p align="middle">
-   <img src="../master/Images/current.png" width="400"/>
-   <img src="../master/Images/itenary.png" width="400"/>
+   <img src="../Images/current.png" width="400"/>
+   <img src="../Images/itenary.png" width="400"/>
 </p>
 
 #### Seat Features and Approval
 <p align="middle">
-   <img src="../master/Images/features.png" width="400"/>
-   <img src="../master/Images/approve.png" width="400"/>
+   <img src="../Images/features.png" width="400"/>
+   <img src="../Images/approve.png" width="400"/>
 </p>
 
 
@@ -89,8 +89,8 @@ the pay button consider the transaction done and mark the seat sold.
 ```
 
 <p align="middle">
-   <img src="../master/Images/tomcat.png" width="400"/>
-   <img src="../master/Images/tomcat-users-xml.png" width="400"/>
+   <img src="../Images/tomcat.png" width="400"/>
+   <img src="../Images/tomcat-users-xml.png" width="400"/>
 </p>
 
 Morever, open and read the file. Only the users authenticated in this file are allowed to login and use the Booking System. Use above mentioned credentials to login through the Login Page.
@@ -102,8 +102,7 @@ Both projects will be loaded. Now first run the Turkish Airlines project, then t
 
 <br>
 <hr>
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
- <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - Maker of Things</h1> 
+<h1 align="left">Hey there, I'm Rayat</h1> 
  
 
 ## Contributions Welcome
