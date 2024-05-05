@@ -83,9 +83,9 @@ the pay button consider the transaction done and mark the seat sold.
 <role rolename="Admin"/>
 <role rolename="Customer"/>
 
-<user username="haris@admin.com" password="a" roles="Admin"/>
-<user username="haris@manager.com" password="m" roles="Manager"/>
-<user username="shariq@customer.com" password="c" roles="Customer"/>
+<user username="rayat@admin.com" password="a" roles="Admin"/>
+<user username="rayat@manager.com" password="m" roles="Manager"/>
+<user username="mainul@customer.com" password="c" roles="Customer"/>
 ```
 
 <p align="middle">
@@ -109,11 +109,6 @@ Both projects will be loaded. Now first run the Turkish Airlines project, then t
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
-
-## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Flight-Booking-System-JavaServlets_App.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Flight-Booking-System-JavaServlets_App/issues)
-
-If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)                                                        
